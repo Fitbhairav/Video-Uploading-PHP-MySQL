@@ -23,6 +23,9 @@
 			margin-bottom: 40px;
 			font-size: 1.5rem;
 		}
+		footer{
+			margin-top: 500px;
+		}
 	</style>
 </head>
 <body>
@@ -41,5 +44,8 @@
 	 	       name="submit" 
 	 	       value="Upload">
 	 </form>
+	 <footer>
+		<b>Copyright @ Bhairav Jangid</b>
+	 </footer>
 </body>
 </html>
