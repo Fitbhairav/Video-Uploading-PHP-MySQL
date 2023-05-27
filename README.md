@@ -1,6 +1,6 @@
 # Video-Uploading-PHP-MySQL
 
-# Basic video uploading website using PHP and MySQL database.
+Basic video uploading website using PHP and MySQL database. And handling the MySQL database as backend.
 # GUI for uploading :-
 ![Screenshot (112)](https://github.com/Fitbhairav/Video-Uploading-PHP-MySQL/assets/114358084/8603edb6-d98c-4761-a094-c3ba5b61d168)
 # GUI after uploading :-
